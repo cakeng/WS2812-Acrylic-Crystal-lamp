@@ -10,3 +10,5 @@ Software, schemetic, PCB file created by PARK JONG SEOK (박종석)
 NO LICENCE INCLUDED Contact cakeng@naver.com to use, modify, or share the software, schemetic, PCB for any purpose other than personal use.
 
 PCB/Schematic at https://easyeda.com/cakeng/gillian-s-diamonds
+
+![20181013_034400](./20181013_034400.jpg)
